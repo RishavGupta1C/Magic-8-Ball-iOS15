@@ -1,1 +1,1 @@
-# Masgic-8-Ball-iOS15
+# Magic-8-Ball-iOS15
